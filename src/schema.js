@@ -1,4 +1,4 @@
-import OrderedMap from "/prosemirror/dist/orderedmap.es.js"
+import OrderedMap from "/prosemirror/devimports/orderedmap.es.js"
 
 import {Node, TextNode} from "./node.js"
 import {Fragment} from "./fragment.js"
