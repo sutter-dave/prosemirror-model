@@ -1,4 +1,4 @@
-import {findDiffStart, findDiffEnd} from "./diff"
+import {findDiffStart, findDiffEnd} from "./diff.js"
 
 // ::- A fragment represents a node's collection of child nodes.
 //

@@ -1,4 +1,4 @@
-import {Fragment} from "./fragment"
+import {Fragment} from "./fragment.js"
 
 // ::- Instances of this class represent a match state of a node
 // type's [content expression](#model.NodeSpec.content), and can be

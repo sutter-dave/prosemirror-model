@@ -1,9 +1,9 @@
-import OrderedMap from "orderedmap"
+import OrderedMap from "/prosemirror/dist/orderedmap.es.js"
 
-import {Node, TextNode} from "./node"
-import {Fragment} from "./fragment"
-import {Mark} from "./mark"
-import {ContentMatch} from "./content"
+import {Node, TextNode} from "./node.js"
+import {Fragment} from "./fragment.js"
+import {Mark} from "./mark.js"
+import {ContentMatch} from "./content.js"
 
 // For node types where all attrs have a default value (or which don't
 // have any attributes), build up a single reusable default attribute

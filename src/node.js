@@ -1,8 +1,8 @@
-import {Fragment} from "./fragment"
-import {Mark} from "./mark"
-import {Slice, replace} from "./replace"
-import {ResolvedPos} from "./resolvedpos"
-import {compareDeep} from "./comparedeep"
+import {Fragment} from "./fragment.js"
+import {Mark} from "./mark.js"
+import {Slice, replace} from "./replace.js"
+import {ResolvedPos} from "./resolvedpos.js"
+import {compareDeep} from "./comparedeep.js"
 
 const emptyAttrs = Object.create(null)
 

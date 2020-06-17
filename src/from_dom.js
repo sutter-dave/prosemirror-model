@@ -1,6 +1,6 @@
-import {Fragment} from "./fragment"
-import {Slice} from "./replace"
-import {Mark} from "./mark"
+import {Fragment} from "./fragment.js"
+import {Slice} from "./replace.js"
+import {Mark} from "./mark.js"
 
 // ParseOptions:: interface
 // These are the options recognized by the

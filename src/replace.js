@@ -1,4 +1,4 @@
-import {Fragment} from "./fragment"
+import {Fragment} from "./fragment.js"
 
 // ReplaceError:: class extends Error
 // Error type raised by [`Node.replace`](#model.Node.replace) when

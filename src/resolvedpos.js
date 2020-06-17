@@ -1,4 +1,4 @@
-import {Mark} from "./mark"
+import {Mark} from "./mark.js"
 
 // ::- You can [_resolve_](#model.Node.resolve) a position to get more
 // information about it. Objects of this class represent such a
